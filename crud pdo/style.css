@@ -1,0 +1,76 @@
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 5px;
+  padding: 20px;
+}
+
+
+body
+{
+    margin: 0;
+    padding: 0;
+    animation: bgcolor infinite 20s;
+}
+h1
+{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    font-size: 5em;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+@keyframes bgcolor{
+    0%
+    {
+        background: #e74c3c ;
+    }
+    20%
+    {
+        background: #575fcf;
+    }
+    40%
+    {
+        background: #0fbcf9;
+    }
+    60%
+    {
+        background: #f1c40f ;
+    }
+    80%
+    {
+        background: #e67e22;
+    }
+    100%
+    {
+        background: #e74c3c;
+    }
+}
