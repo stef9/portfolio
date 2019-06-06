@@ -1,0 +1,6 @@
+•	Wat was de opdracht?
+Uitleggen wie ik ben wat ik doe/ een portfolio website maken
+•	Wat was jouw rol bij dit project?
+Het maken van de website en vertellen wie ik ben
+•	Hoe heb je dit aangepakt?
+Begonnen met een html code en wat CSS voor de background-image, navbar gemaakt met links naar projecten van mij. Op het laats nog een javascript met html code gemaakt voor de progress pagina waar ik laat zien hoe me skills zijn qua codeer talen.
