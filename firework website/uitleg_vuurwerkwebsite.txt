@@ -1,0 +1,8 @@
+•	Wat was de opdracht?
+vuurwerk website maken met msql
+•	Wat was jouw rol bij dit project?
+Het maken van de opdracht 
+•	Hoe heb je dit aangepakt?
+Database gemaakt, artikelen toegevoegd met url foto link. Prijzen bij gezet
+Css toegevoegd. een aantal functies gemaakt in php connecties met de database
+en een soort winkelwagen geprobeerd
