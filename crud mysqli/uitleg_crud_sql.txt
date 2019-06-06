@@ -1,0 +1,10 @@
+•	Wat was de opdracht?
+een een tabel maken met namen vannuit een database genaamd films 
+met mogelijkheden, create, read, update en delete functie
+•	Wat was jouw rol bij dit project?
+Het maken van de opdracht
+•	Hoe heb je dit aangepakt?
+de films database geimporteerd in PHPmyadmin een connectie 
+code gemaakt met de database, geinclude op de pagina's wat css toegevoegd
+voor de uitstraal en de tabel. Daarna het insert systeem gemaakt,
+create systeem, read systeem, update systeem en delete systeem.
